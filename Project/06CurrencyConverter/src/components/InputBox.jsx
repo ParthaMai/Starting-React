@@ -29,7 +29,7 @@ function InputBox({
             />
 
           </div>
-          <div className='w-1/2 flex flex wrap justify-end text-right'>
+          <div className='w-1/2 flex wrap justify-end text-right'>
               <p className='text-black/40 mb-2 w-full'>
                 Currency Type
               </p>
