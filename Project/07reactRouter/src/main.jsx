@@ -32,6 +32,7 @@ import Github, { githubInfoLoader } from './components/Github/Github.jsx'
 //   }
 // ])
 
+// Mainly this is we bassicaly use
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<Layout />}>
