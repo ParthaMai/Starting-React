@@ -7,7 +7,7 @@ function Layout() {
   return (
     <>
     <Header/>
-    <Outlet /> //This outlet for nesting
+     <Outlet /> {/* This outlet for nesting */}
     <Footer />
     </>
   )

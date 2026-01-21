@@ -11,6 +11,7 @@ import User from './components/User/User.jsx'
 import Github, { githubInfoLoader } from './components/Github/Github.jsx'
 
 
+// This is your 2nd aproach to link the path
 // const router = createBrowserRouter([
 //   {
 //     path: '/',
